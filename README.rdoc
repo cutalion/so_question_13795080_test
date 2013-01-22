@@ -1,0 +1,1 @@
+A test repository for http://stackoverflow.com/questions/13795080/postgresql-table-values-dont-match-ruby-on-rails-active-record-query-results

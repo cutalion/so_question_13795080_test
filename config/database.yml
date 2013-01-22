@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  encoding: utf-8
+  database: pg_test
+  pool: 5
+  password: password
